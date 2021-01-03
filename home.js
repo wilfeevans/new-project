@@ -68,7 +68,7 @@ console.log(n);
 
 //Data types
 let number= 100; // number
-let names="wilfred"; //string
+let names="Antony"; //string
 let truth=false; //boolean
 let name1=null; 
 let name2;
